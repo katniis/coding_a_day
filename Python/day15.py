@@ -10,9 +10,9 @@ lyrics: list[str] = [
     "silanganan",
     "alab",
     "ng",
-    "pugo"
+    "pugo" # wrong lyrics
 ]
-print(lyrics)
+print(" ".join(lyrics))
 
 print("Popped Lyrics:", lyrics.pop())
-print("New Lyrics:", lyrics)
+print("New Lyrics:", " ".join(lyrics))
