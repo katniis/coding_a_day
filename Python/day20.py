@@ -1,4 +1,4 @@
-#  output fibonacci sequence (base 1) on each keypress
+# 20. output fibonacci sequence (base 1) on each keypress
 
 import keyboard
 
