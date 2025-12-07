@@ -3,7 +3,7 @@ List of tasks to do to learn a
 new programming language 
 but only spending 10 minutes a day
 (10 minutes per day)
-
+test commit
 ## Beginner Tasks
 1. setup environment/compiler and print out hello world
 2. declare 2 string variables, 1 is hello, 1 is world, concatenate to say hello world
